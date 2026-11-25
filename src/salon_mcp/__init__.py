@@ -1,0 +1,1 @@
+"""Salon assistant MCP server."""
